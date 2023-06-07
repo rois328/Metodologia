@@ -21,7 +21,7 @@ public class calculadora2 {
             case "multiplicacion":
                 System.out.println("El resultado de la multiplicación es: " + (num1 * num2));
                 break;
-            case "division":
+            case "division":    
                 if (num2 != 0) {
                     System.out.println("El resultado de la división es: " + division(num1, num2));
                 } else {
