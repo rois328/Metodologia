@@ -13,7 +13,7 @@ public class MatrizSuma {
         matrizC = cargarMatrizDesdeArchivo(archivoMatrizC);
     }
 
-    public void calcularMatrizB() {    ("calculrMatrizB() realiza la operacion de la suma de matrices y almacena el resultado en la matriz B")
+    public void calcularMatrizB() {     
         int filas = matrizA.length;
         int columnas = matrizA[0].length;
         matrizB = new int[filas][columnas];
@@ -25,7 +25,7 @@ public class MatrizSuma {
         }
     }
 
-    public void imprimirMatrizB() {     ("imprimirMatrizB() imprime por consola la matriz B.")
+    public void imprimirMatrizB() {     
         int filas = matrizB.length;
         int columnas = matrizB[0].length;
 
@@ -74,3 +74,4 @@ public class MatrizSuma {
         matrizSuma.imprimirMatrizB();
     }
 }
+xxxxxxxxxx
