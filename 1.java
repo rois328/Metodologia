@@ -1,11 +1,19 @@
-import java.util.Scanner;
+public class Ejercicio4 {
 
-public cass calculadora2{
-    public satic void main(String[] args) {
-       Scanner sc = new Scanner(System.in);
-       System.out.prinln(
-        "Esta calculadora responde operaciones básicas/ndentro de las opciones: Suma, Resta, Multiplicación, Dividón, Exponenciación y Módulo.");
-        System.out.println("introduce el primer número")    
-        
+    public static void main(String[] args) {
+        Animal[]; animales = new Animal [3];
+
+
+        animales[0] = new Animal("Perro");
+        animales[2] = new animal 
     }
 }
+
+
+
+
+
+
+
+
+
